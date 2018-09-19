@@ -2,4 +2,8 @@ This is first file under master
 Entered new changes
 edited the file in dev branch
 Editing the file in local post git clone.
+<<<<<<< HEAD
 Trying to modify in parallel from local.
+=======
+Editing the file in github///
+>>>>>>> 322a4abd41b2cb9f6f6e6246b067f7144e332a19
